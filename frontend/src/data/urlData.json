@@ -1,0 +1,53 @@
+[
+    {
+      "originalUrl": "https://example.com/page1",
+      "shortenedUrl": "https://short.url/abc123",
+      "clicks": 100
+    },
+    {
+      "originalUrl": "https://example.com/page2",
+      "shortenedUrl": "https://short.url/def456",
+      "clicks": 50
+    },
+    {
+      "originalUrl": "https://example.com/page3",
+      "shortenedUrl": "https://short.url/ghi789",
+      "clicks": 75
+    },
+    {
+      "originalUrl": "https://example.com/page4",
+      "shortenedUrl": "https://short.url/jkl012",
+      "clicks": 120
+    },
+    {
+      "originalUrl": "https://example.com/page5",
+      "shortenedUrl": "https://short.url/mno345",
+      "clicks": 200
+    },
+    {
+      "originalUrl": "https://example.com/page6",
+      "shortenedUrl": "https://short.url/pqr678",
+      "clicks": 80
+    },
+    {
+      "originalUrl": "https://example.com/page7",
+      "shortenedUrl": "https://short.url/stu901",
+      "clicks": 150
+    },
+    {
+      "originalUrl": "https://example.com/page8",
+      "shortenedUrl": "https://short.url/vwx234",
+      "clicks": 90
+    },
+    {
+      "originalUrl": "https://example.com/page9",
+      "shortenedUrl": "https://short.url/yza567",
+      "clicks": 110
+    },
+    {
+      "originalUrl": "https://example.com/page10",
+      "shortenedUrl": "https://short.url/bcd890",
+      "clicks": 180
+    }
+  ]
+  
